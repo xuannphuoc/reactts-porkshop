@@ -1,0 +1,23 @@
+[
+  {
+    "id": "P001",
+    "name": "Thịt ba rọi",
+    "category": "thit-tuoi",
+    "pricePerKg": 165000,
+    "stockKg": 25
+  },
+  {
+    "id": "P002",
+    "name": "Sườn non",
+    "category": "suon",
+    "pricePerKg": 185000,
+    "stockKg": 15
+  },
+  {
+    "id": "P003",
+    "name": "Thịt nạc vai",
+    "category": "thit-tuoi",
+    "pricePerKg": 135000,
+    "stockKg": 20
+  }
+]
